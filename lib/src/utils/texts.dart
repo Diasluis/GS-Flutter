@@ -1,5 +1,5 @@
 const String develops =
-    'André Lucchesi do Carmo-85433\rLuis Henrique Neves Dias-84807 \rWilson Pavanello Neto-82727';
+    'André Lucchesi do Carmo-85433\nLuis Henrique Neves Dias-84807 \nWilson Pavanello Neto-82727';
 const String login = 'Login';
 const String eMail = 'E-mail';
 const String password = 'Senha';
